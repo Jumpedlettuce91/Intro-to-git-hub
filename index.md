@@ -9,3 +9,7 @@ xtoken = Math.rand;
 }
 ```
 testing font
+- [x] Create a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
